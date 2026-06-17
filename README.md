@@ -72,7 +72,7 @@ Created an interactive dashboard for quick performance monitoring.
 ## Project Files
 
 - [Dashboard Screenshot](Sales%20Performance%20Dashboard.png)
-- [Excel Dashboard File](Sales_Performance_Target_Achievement_Dashboard.xlsx)
+- [Excel Dashboard File](Sales_Performance_Target_Achievement_Dashboard.xlsm)
 
   ## Dashboard Preview Explanation
   This dashboard provides insights into:
