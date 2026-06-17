@@ -71,8 +71,16 @@ Created an interactive dashboard for quick performance monitoring.
 
 ## Project Files
 
-- Sales Performance Dashboard.png
-- Sales_Performance_Target_Achievement_Dashboard.xlsx
+- [Dashboard Screenshot](Sales%20Performance%20Dashboard.png)
+- [Excel Dashboard File](Sales_Performance_Target_Achievement_Dashboard.xlsx)
+
+  ## Dashboard Preview Explanation
+  This dashboard provides insights into:
+  -Sales performance by executive
+  -Target achievement
+  -Top and lowest performance
+  -performance gaps for improvement
+  
 
 
 
