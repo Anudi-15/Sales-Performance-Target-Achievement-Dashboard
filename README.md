@@ -65,6 +65,17 @@ Analyzed target achievement percentage to find improvement areas.
 Created an interactive dashboard for quick performance monitoring.
 
 ---
+</> Markdown
+
+## Dashboard Preview
+![Sales Dasboard] (Sales%20Performance%20Dashboard.png)
+
+## Project Files
+
+Sales Performance Dashboard.png
+Sales_Performance_Target_Achievement_Dashboard.xlsx
+
+
 
 
 
